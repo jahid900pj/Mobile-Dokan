@@ -16,3 +16,7 @@ span {
     text-align: center;
     width: 100%;
 }
+
+#modal {
+    overflow-y: auto !important;
+}
